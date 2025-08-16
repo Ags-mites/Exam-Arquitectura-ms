@@ -86,12 +86,12 @@ docker-compose up --build
 **Body:**
 ```json
 {
-  "capacidad": number,    
+  "capacidad": number,
   "objetos": [
     {
-      "nombre": string,   
-      "peso": number,     
-      "ganancia": number  
+      "nombre": string,
+      "peso": number,
+      "ganancia": number
     }
   ]
 }
