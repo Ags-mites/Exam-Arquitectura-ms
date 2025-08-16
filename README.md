@@ -1,8 +1,5 @@
 # Optimizador de Portafolio
-
-Algoritmo de la mochila para maximizar ganancias dentro del presupuesto.
-
-## Prueba con Docker
+## Funcionamiento con Docker
 
 ```bash
 # Construir y ejecutar
